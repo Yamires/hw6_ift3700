@@ -1,0 +1,11 @@
+env/
+venv/
+hw6-env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dylib
+.DS_Store
